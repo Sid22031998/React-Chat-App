@@ -10,11 +10,11 @@
 
 <br></br>
 
-<ul style="font-size:50px"><b>Features of the App:</b>
-    <li>Multiple users can connect to the same room and chat.</li>
-    <li>The app is based on Snapchat as when you leave the room the messages automatically get deleted.</li>
-    <li>The app allows you to send text messages and emojis ;)</li>
-    <li>No duplicate users can join the same room which means no two users with the same name can join the same room.</li>
-    <li>Multiple rooms can function simultaneously.
-    <li>The app is purely based on JS so none of your chat data is saved anywhere. User privacy is important.</li>
+## <ul><b>Features of the App:</b>
+    #### <li>Multiple users can connect to the same room and chat.</li>
+    #### <li>The app is based on Snapchat as when you leave the room the messages automatically get deleted.</li>
+    #### <li>The app allows you to send text messages and emojis ;)</li>
+    #### <li>No duplicate users can join the same room which means no two users with the same name can join the same room.</li>
+    #### <li>Multiple rooms can function simultaneously.
+    #### <li>The app is purely based on JS so none of your chat data is saved anywhere. User privacy is important.</li>
 </ul>
