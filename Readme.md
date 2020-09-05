@@ -10,7 +10,8 @@
 
 <br></br>
 
-<ul><b>Features of the App:</b>
+## Features of the App:
+<ul>
     <li>Multiple users can connect to the same room and chat.</li>
     <li>The app is based on Snapchat as when you leave the room the messages automatically get deleted.</li>
     <li>The app allows you to send text messages and emojis ;)</li>
