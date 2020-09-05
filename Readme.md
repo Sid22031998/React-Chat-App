@@ -8,6 +8,7 @@
 ## Motive behind the App:
 #### Join. Chat. Leave. No Records.
 
+<hr></hr>
 
 ## Features of the App:
 #### 1. Multiple users can connect to the same room and chat.
