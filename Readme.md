@@ -10,7 +10,7 @@
 ## Motive behind the App:
 #### Join. Chat. Leave. No Records.
 
-<br></br>
+<br />
 
 ## Features of the App:
 <ul>
@@ -21,3 +21,9 @@
     <li>Multiple rooms can function simultaneously.
     <li>The app is purely based on JS so none of your chat data is saved anywhere. User privacy is important.</li>
 </ul>
+
+<br />
+
+#### Article published on Medium: https://medium.com/swlh/build-a-chat-app-using-react-express-socket-io-nodejs-32b922c9dd4f
+<br />
+#### Live Project: https://instameet.herokuapp.com/
