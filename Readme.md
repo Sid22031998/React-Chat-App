@@ -25,5 +25,4 @@
 <br />
 
 #### Article published on Medium: https://medium.com/swlh/build-a-chat-app-using-react-express-socket-io-nodejs-32b922c9dd4f
-<br />
 #### Live Project: https://instameet.herokuapp.com/
